@@ -11,14 +11,12 @@ O autor escolhe cada notícia e responde pelo que é publicado.
 | Item | Valor |
 |---|---|
 | Assistente | Claude, da Anthropic |
-| Modelo | _PREENCHER: nome e versão exatos do modelo configurado nas tarefas agendadas_ |
+| Modelo | Registrado em cada análise, no quadro "Registro desta análise" (campo `nn_modelo_ia`) |
+| Quando roda | Sob demanda: o autor encontra uma notícia e pede a análise. Não há publicação automática agendada |
 | Como publica | Pela API do WordPress, via o plugin O4AI (servidor MCP do próprio site) |
 | Instruções | [regras/REGRAS-DO-AGENTE.md](regras/REGRAS-DO-AGENTE.md) (cópia fiel do que o agente lê) |
-| Instruções da tarefa agendada | _PREENCHER: colar aqui o texto da tarefa agendada, se houver algo além de "siga as regras"_ |
 
-Quando o modelo muda, a troca entra no [CHANGELOG.md](CHANGELOG.md) com a data. Cada análise
-mostra, no quadro "Registro desta análise", a versão da metodologia e, quando informado, o modelo
-usado.
+Como o modelo pode mudar com o tempo, ele é registrado em cada análise, e não só aqui.
 
 ## O que a IA não faz
 - **Não cria imagens.** Só usa mídias reais com crédito e licença.

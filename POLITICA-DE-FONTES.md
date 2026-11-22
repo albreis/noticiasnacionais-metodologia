@@ -33,17 +33,11 @@ O site mostra um resumo no topo da lista de fontes (quantas de cada tipo e de ca
 editorial), para o leitor ver o equilíbrio de cada análise.
 
 ## Sobre a classificação de linha editorial
-A linha editorial é uma **percepção**, não um rótulo oficial, e é usada só para medir equilíbrio.
-Lista de referência (em construção):
-
-| Veículo | Linha percebida | Observação |
-|---|---|---|
-| _PREENCHER: lista dos veículos mais usados e a classificação adotada_ | | |
-
-> **Pendente (Everaldo):** a classificação hoje é feita análise a análise. Para dar consistência,
-> a proposta é fixar aqui a classificação dos veículos mais usados e citar de onde ela vem (por
-> exemplo, um estudo de mídia ou uma classificação pública), para que o mesmo veículo não receba
-> linhas diferentes em análises diferentes.
+A linha editorial de um veículo é uma **percepção**, não um rótulo oficial, e serve só para o leitor
+ver se uma análise ouviu lados diferentes. Ela é registrada em cada fonte, análise por análise. Para
+evitar que o mesmo veículo receba classificações diferentes, a
+[revisão por amostragem](auditoria/REVISAO-POR-AMOSTRAGEM.md) confere a consistência e, quando um
+veículo aparecer com linhas diferentes, a classificação passa a ser fixada numa tabela neste arquivo.
 
 ## Cópias arquivadas
 A partir da metodologia 1.0, cada fonte pode ter um link para uma **cópia arquivada** (por exemplo,

@@ -9,8 +9,7 @@ Escreva para o e-mail de correções indicado no rodapé do site, com:
 
 Também é possível abrir uma *issue* pública neste repositório.
 
-> **Pendente (Everaldo):** prazo de resposta. Sugestão: "todo pedido recebe resposta em até 7 dias".
-> PRAZO: _PREENCHER_
+**Prazo: todo pedido recebe resposta em até 72 horas.**
 
 ## O que acontece
 1. O pedido é conferido contra as fontes.

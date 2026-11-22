@@ -7,8 +7,12 @@ feito já, a baixo custo.
 Um grupo de 2 a 5 pessoas voluntárias, de preferências políticas diferentes entre si, sem
 vínculo financeiro com o site.
 
-> **Pendente (Everaldo):** convidar os membros. Membros: _PREENCHER (nome ou "anônimo a pedido",
-> e a declaração de vínculo de cada um)_.
+**Situação em 22/11/2026: membros ainda não definidos.** Até lá, a revisão é feita pelo autor e
+registrada como "revisão interna", sem valor de revisão independente.
+
+Familiares e sócios do autor podem participar, mas o vínculo é declarado no relatório e a
+participação deles não conta como revisão independente: para isso, é preciso pelo menos um
+membro sem vínculo pessoal ou financeiro com o autor.
 
 Os nomes são publicados aqui, salvo quem pedir anonimato; nesse caso o relatório diz quantos
 membros anônimos participaram.

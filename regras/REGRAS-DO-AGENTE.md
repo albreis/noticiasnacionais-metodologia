@@ -1,6 +1,6 @@
 # Regras do agente de publicação
 
-Estas regras valem para toda tarefa agendada (ou manual) que escreve, publica ou atualiza
+Estas regras valem para toda execução (sob demanda, quando o Everaldo manda uma notícia) que escreve, publica ou atualiza
 análises no noticiasnacionais.com.br via MCP (plugin O4AI) ou pela REST API do WordPress.
 Leia este arquivo inteiro antes de cada execução e siga tudo. O site não valida nada sozinho:
 quem garante as regras é você.

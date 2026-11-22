@@ -47,6 +47,13 @@ no quadro "Registro desta análise", a versão da metodologia com que foi feita.
 - Discordância do método: abra uma *issue* neste repositório explicando o problema. Toda issue
   recebe resposta pública, mesmo que seja para explicar por que a regra fica como está.
 
+## Licença
+
+Os textos deste repositório estão sob a licença
+[Creative Commons Atribuição 4.0 Internacional (CC BY 4.0)](LICENSE): qualquer pessoa pode copiar,
+adaptar e reutilizar a metodologia, inclusive para fins comerciais, desde que cite a fonte
+(Notícias Nacionais, com link para este repositório).
+
 ## O que este repositório não é
 
 - Não é um selo de checagem reconhecido por terceiros. O site não é signatário da IFCN nem de

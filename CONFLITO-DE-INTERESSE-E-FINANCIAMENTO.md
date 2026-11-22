@@ -5,16 +5,19 @@ inventado: onde não há informação confirmada, o campo fica em aberto.
 
 ## 1. Quem financia o site
 
-| Fonte de receita ou custo | Situação | Desde |
-|---|---|---|
-| Recursos próprios do autor | _PREENCHER (sim/não, o que cobre: servidor, domínio, ferramentas)_ | _PREENCHER_ |
-| Anúncios automáticos (Google AdSense, Adsterra) | _PREENCHER (ativo / planejado)_ | _PREENCHER_ |
-| Anúncios vendidos diretamente | _PREENCHER (nenhum até agora / lista)_ | _PREENCHER_ |
-| Doações de leitores | _PREENCHER (não aceita / aceita, por onde)_ | _PREENCHER_ |
-| Patrocínio, verba pública, partido, empresa ou entidade | _PREENCHER (nenhum / lista)_ | _PREENCHER_ |
+O site é mantido pela **ER Soluções Web** (CNPJ 33.480.243/0001-23), empresa do autor, que paga
+servidor, domínio e as ferramentas usadas nas análises.
+
+| Fonte de receita ou custo | Situação |
+|---|---|
+| ER Soluções Web (empresa do autor) | Paga todos os custos desde o lançamento (20/11/2026) |
+| Anúncios automáticos (Google AdSense, Adsterra) | Planejados; quando entrarem, a data de início é registrada aqui |
+| Anúncios vendidos diretamente | Nenhum |
+| Doações de leitores | Não aceita |
+| Patrocínio, verba pública, partido, empresa ou entidade | Nenhum |
 
 Atualização: esta tabela é revista **a cada 6 meses** ou sempre que uma fonte nova de receita
-entrar, o que vier primeiro. Última revisão: _PREENCHER (data)_.
+entrar, o que vier primeiro. Última revisão: 22/11/2026.
 
 ## 2. Regras contra influência
 
@@ -32,18 +35,19 @@ entrar, o que vier primeiro. Última revisão: _PREENCHER (data)_.
 
 ## 3. Declaração de interesses do autor
 
-O autor declara aqui vínculos que um leitor poderia considerar relevantes:
+Vínculos que um leitor poderia considerar relevantes para julgar se o autor é imparcial:
 
 | Pergunta | Resposta |
 |---|---|
+| Quem mantém o site | ER Soluções Web, empresa do autor |
+| A empresa tem clientes que podem aparecer em notícias? | Sim: a ER Soluções Web presta serviços de desenvolvimento, automação e infraestrutura web para clientes |
 | Filiação partidária atual ou nos últimos 5 anos | _PREENCHER_ |
-| Cargo, contrato ou prestação de serviço para governo, partido ou campanha | _PREENCHER_ |
-| Empresas próprias ou clientes de serviços (ex.: desenvolvimento de sites) que possam aparecer em notícias | _PREENCHER_ |
-| Outros sites de notícias em que trabalha ou que mantém | _PREENCHER_ |
+| Cargo, contrato ou serviço para governo, partido ou campanha eleitoral | _PREENCHER_ |
 
-Regra: quando uma análise tratar de alguém da lista acima, o vínculo é declarado no texto, ou o
-tema não é analisado.
+Regra: quando uma análise tratar de cliente da ER Soluções Web, de concorrente direto dela ou de
+qualquer pessoa com vínculo com o autor, o vínculo é declarado no primeiro parágrafo, ou o tema não
+é analisado.
 
 ## 4. Ferramentas pagas
 As ferramentas usadas para produzir as análises (inteligência artificial, hospedagem) são pagas
-pelo autor e não têm qualquer papel editorial. Veja [USO-DE-IA.md](USO-DE-IA.md).
+pela ER Soluções Web e não têm qualquer papel editorial. Veja [USO-DE-IA.md](USO-DE-IA.md).
