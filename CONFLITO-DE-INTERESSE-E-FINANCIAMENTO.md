@@ -1,7 +1,6 @@
 # Conflito de interesse e financiamento
 
-Campos marcados com **_PREENCHER_** dependem de informação que só o autor tem. Nada aqui foi
-inventado: onde não há informação confirmada, o campo fica em aberto.
+Declaração feita pelo autor em 22/11/2026.
 
 ## 1. Quem financia o site
 
@@ -41,8 +40,8 @@ Vínculos que um leitor poderia considerar relevantes para julgar se o autor é 
 |---|---|
 | Quem mantém o site | ER Soluções Web, empresa do autor |
 | A empresa tem clientes que podem aparecer em notícias? | Sim: a ER Soluções Web presta serviços de desenvolvimento, automação e infraestrutura web para clientes |
-| Filiação partidária atual ou nos últimos 5 anos | _PREENCHER_ |
-| Cargo, contrato ou serviço para governo, partido ou campanha eleitoral | _PREENCHER_ |
+| Filiação partidária atual ou nos últimos 5 anos | Nenhuma |
+| Cargo, contrato ou serviço para governo, partido ou campanha eleitoral | Nenhum |
 
 Regra: quando uma análise tratar de cliente da ER Soluções Web, de concorrente direto dela ou de
 qualquer pessoa com vínculo com o autor, o vínculo é declarado no primeiro parágrafo, ou o tema não
